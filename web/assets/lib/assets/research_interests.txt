@@ -1,0 +1,13 @@
+# XAI and Privacy
+
+Explainable AI (XAI) techniques provide a way to build user trust in AI systems. XAI comes in part from an effort by researches to build ethical AI systems or "Trustworthy AI".
+ Trustworthy AI as a whole encompasses work in privacy and security; explainability and interpretability
+; fairness; and robustness.
+
+I have started looking at ways to make privacy preserving techniques for AI (e.g., differential privacy and federated learning) more transparent
+to users by leveraging XAI techniques. This could allow us to better under how privacy techniques affect model behavior. I hope this work allows us to build more transparent, secure AI models.
+
+This idea is supported by a belief that privacy solutions for AI may look different based on sector application and user demographic.
+
+
+

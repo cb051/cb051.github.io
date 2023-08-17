@@ -1,0 +1,7 @@
+Hi Hi :)
+
+My name is Carter Buckner, and I'm a second year Computer Science Ph.D. student at the University of Arkansas. I work with [Dr. Qinghua Li](http://csce.uark.edu/~qinghual/) on different privacy topics in AI.
+
+I am most interested in building user-centric solutions that address AI privacy, user trust, and government policy. I am currently exploring how explainable AI can be used to make AI privacy solutions more effective.
+
+I received a B.S. in Computer Science from the University of Arkansas. Outside of the lab, I play with [SoNA](https://www.sonamusic.org/), a local orchestra, and at other spots across the state. I'm also a big fan of drawing and photography. You can learn more in my *other interests* section.
