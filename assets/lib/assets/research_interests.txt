@@ -9,5 +9,18 @@ to users by leveraging XAI techniques. This could allow us to better under how p
 
 This idea is supported by a belief that privacy solutions for AI may look different based on sector application and user demographic.
 
+*# AI Privacy Policy
+
+I have partnered with some wonderful people in the public policy department to examine AI's effect on privacy for the state of Arkansas.
+
+I have long wanted to understand how local and national policy could be leveraged to build safer, more equitable technology.
+Clear themes had emerged by the time I started my degree: technology affected some demographic groups negatively; safety and privacy were not always prioritized;
+technical jargon often obscured very important messages.
+
+All of those themes pop up in research on privacy, trust, and ethical AI. It is an interdisciplinary
+conversation being tackled from multiple points of view. It means a great deal to me that technical research will continue to inform conversations on policy and ethics.
+
+
+
 
 
