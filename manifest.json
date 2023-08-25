@@ -1,11 +1,11 @@
 {
-    "name": "personal_website",
-    "short_name": "personal_website",
+    "name": "a",
+    "short_name": "a",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#FF5F4065",
-    "theme_color": "#FF5F4065",
-    "description": "A personal website",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
