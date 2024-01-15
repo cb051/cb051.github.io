@@ -1,11 +1,11 @@
 {
-    "name": "personal_website",
-    "short_name": "personal_website",
+    "name": "Carter Buckner",
+    "short_name": "Carter Buckner",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#FF5F4065",
     "theme_color": "#FF5F4065",
-    "description": "A personal website",
+    "description": "My name is Carter Buckner, and I'm a second year Computer Science Ph.D. student at the University of Arkansas. I work with Qinghua Li on different privacy topics in AI.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
