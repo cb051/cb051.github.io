@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /#/other_interests
+Allow: /#/research_interests
+Allow: /#/cv
