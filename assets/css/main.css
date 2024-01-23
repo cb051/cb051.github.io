@@ -1,0 +1,27 @@
+/* CURRENT THEME */
+/* DEFAULT THEME
+$backgroundColor: #ffffff;
+$bodyColor: #000000;
+
+$bodyFont: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+$linkColor: #212529 !important;
+*/
+body {
+  background: #F5EEF8;
+  color: #4C2656;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}
+
+body a {
+  color: #3E8846 !important;
+}
+
+.right_picture_title {
+  text-align: right;
+}
+
+.small-text {
+  font-size: 10px;
+}
+
+/*# sourceMappingURL=main.css.map */
