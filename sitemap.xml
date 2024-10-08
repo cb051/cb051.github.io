@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://cb051.github.io/about/</loc>
+<loc>https://cb051.github.io/about//about/</loc>
 </url>
 <url>
-<loc>https://cb051.github.io/cv/</loc>
+<loc>https://cb051.github.io/about//cv/</loc>
 </url>
 <url>
-<loc>https://cb051.github.io/</loc>
+<loc>https://cb051.github.io/about//</loc>
 </url>
 <url>
-<loc>https://cb051.github.io/other_interests/</loc>
+<loc>https://cb051.github.io/about//other_interests/</loc>
 </url>
 <url>
-<loc>https://cb051.github.io/research_interests/</loc>
+<loc>https://cb051.github.io/about//research_interests/</loc>
 </url>
 <url>
-<loc>https://cb051.github.io/resume/buckner_cv.pdf</loc>
-<lastmod>2024-03-26T18:23:13-05:00</lastmod>
+<loc>https://cb051.github.io/about//resume/buckner_cv.pdf</loc>
+<lastmod>2024-10-08T17:49:02-05:00</lastmod>
 </url>
 </urlset>

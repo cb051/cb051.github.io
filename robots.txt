@@ -1,1 +1,1 @@
-Sitemap: https://cb051.github.io//sitemap.xml
+Sitemap: https://cb051.github.io/about//sitemap.xml
